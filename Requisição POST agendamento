@@ -1,0 +1,9 @@
+{
+        "id_cliente_servico":"11000",
+        "descricao":"Abertura de atendimento de teste",
+        "nome":"Nome do Usuário Solicitante",
+        "telefone":"37999112233",
+        "email":"teste@teste.com.br",
+        "abrir_os":true
+}
+
